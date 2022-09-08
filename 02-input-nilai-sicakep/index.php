@@ -43,7 +43,7 @@
 
     </div>
 
-    <!-- <script type="text/javascript">
+    <script type="text/javascript">
         $(document).ready(function(){
             loadData();
 
@@ -70,6 +70,6 @@
             $('[type=text]').val('');
             $('[name=nama]').focus();
         }
-    </script> -->
+    </script>
 </body>
 </html>
